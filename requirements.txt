@@ -5,7 +5,8 @@ certifi==2024.8.30
 pandas==2.2.3
 openpyxl==3.1.5
 aiohttp==3.10.5
-ibm_boto3==1.35.28
+boto3==1.35.28
+botocore==1.35.28
 xlsxwriter==3.2.0
 python-dotenv==1.0.1
 tenacity==9.0.0
