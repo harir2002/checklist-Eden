@@ -1,0 +1,11 @@
+streamlit 
+requests 
+urllib3 
+certifi 
+pandas 
+openpyxl 
+aiohttp 
+ibm_boto3 
+xlsxwriter 
+python-dotenv 
+tenacity
